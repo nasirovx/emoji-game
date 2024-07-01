@@ -37,7 +37,7 @@ In this mode, you can play with another person sitting next to you.
 
 ## 💡 Idea
 
-Project: [https://github.com/mirayatech/Tic-Tac-Toe](https://github.com/mirayatech/Tic-Tac-Toe)
+Project: [https://github.com/mirayatech/Tic-Tac-Toe](https://github.com/nasirovx/)
 
 I've built a tic-tac-toe game before using HTML, CSS, and JavaScript, which was single-player only. I've always wanted to expand the project by adding multiplayer and making it more interactive. Emojis are something I've also always wanted since I've never seen a tic-tac-toe with emojis.
 
